@@ -13,12 +13,12 @@ function App() {
           © Prabal Singh 
         </a>{" "}
         | Developed by{" "}
-        <a target="_blank" href="https://www.gauravghai.dev/">
+        <a target="_blank" href="https://www.htmlhints.com/">
          Prabal Singh
         </a>{" "}
-        | Powered by{" "}
-        <a target="_blank" href="https://www.htmlhints.com/">
-          HTML HINTS
+        | contact {" "}
+        <a target="_blank" href="prabalsingh9285@gmail.com">
+          Gmail
         </a>
       </div>
     </React.Fragment>
