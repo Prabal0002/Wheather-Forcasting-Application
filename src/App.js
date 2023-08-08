@@ -13,7 +13,7 @@ function App() {
           © Prabal Singh 
         </a>{" "}
         | Developed by{" "}
-        <a target="_blank" href="https://www.htmlhints.com/">
+        <a target="_blank" href="https://github.com/Prabal0002">
          Prabal Singh
         </a>{" "}
         | contact {" "}
